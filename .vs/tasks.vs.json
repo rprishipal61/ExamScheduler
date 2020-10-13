@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Exam-Scheduler-www.webdevelopplus",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
